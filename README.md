@@ -11,16 +11,18 @@
 ## 🔧 Tech Stack
 
 **Core Skills:**  
-- **Frontend:** HTML5 · CSS3 · JavaScript · React  
-- **Backend:** Node.js · Express.js · Java  
-- **Databases:** MySQL · MongoDB  
-- **Tools & Platforms:** Git · GitHub · VS Code · Postman  
+- **Frontend:** HTML5 · CSS · JavaScript 
+- **Tools & Platforms:** Git · GitHub · VS Code  
 
 **Languages & Frameworks:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) ● ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ● ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ● ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ● 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ● 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)  
 
 **Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ● ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ● ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) ● ![Postman](https://img.shields.io/badge/Postman-F76C6C.svg?logo=postman&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ● 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ● 
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -34,4 +36,4 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-yaseen-a79928253/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mh0332392344@gmail.com)  
