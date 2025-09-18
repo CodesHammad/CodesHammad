@@ -1,4 +1,4 @@
-# 💻 Hello it's me Muhammad Hammad 👋
+# Hi, it's me Muhammad Hammad 👋
 
 # 👨‍💻 **About Me**  
 - 🌱 Currently learning **Full Stack Web Development**  
