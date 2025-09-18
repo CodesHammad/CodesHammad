@@ -1,4 +1,7 @@
-![Muhammad Hammad](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Muhammad%20Hammad%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Muhammad Hammad](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Muhammad%20Hammad%20👨‍💻&fontSize=42&fontColor=00FFCC&animation=fadeIn&fontAlignY=35)
+![Muhammad Hammad](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Hammad%20👨‍💻&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Muhammad Hammad](https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Muhammad%20Hammad%20👨‍💻&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=35)
+
 
 ![Muhammad Hammad](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Muhammad%20Hammad%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
