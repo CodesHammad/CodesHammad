@@ -1,3 +1,9 @@
+![Muhammad Hammad](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Muhammad%20Hammad%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+![Muhammad Hammad](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Muhammad%20Hammad%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+
+
 # Hi, it's me Muhammad Hammad 👋
 
 # 👨‍💻 **About Me**  
