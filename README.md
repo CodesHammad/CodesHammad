@@ -1,4 +1,7 @@
 ![Muhammad Hammad](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Muhammad%20Hammad%20🧑‍💻&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=4000&pause=1000&color=6FF7CA&center=true&vCenter=true&random=true&width=320&lines=Hi+There!+%F0%9F%91%8B;I+am+Muhammad+Hammad;-Full+Stack+Developer)](https://git.io/typing-svg)
+
 # Hi, it's me Muhammad Hammad 👋
 
 # 👨‍💻 **About Me**  
