@@ -27,17 +27,9 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodesHammad&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesHammad&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=CodesHammad&theme=radical)
-
-
-
-![Muhammad Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadHammad&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad&layout=compact&theme=radical)  
 
 ---
 
