@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Muhammad Hammad  
 
-<!--
-**hammad3074/hammad3074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**  
+- 🌱 Currently learning **Full Stack Web Development**  
+- ☕ Exploring **Java** and strengthening **Object-Oriented Programming (OOP)** concepts  
+- 💻 Working with **HTML, CSS, JavaScript, React, Node.js, and Databases**  
+- 📚 Passionate about coding, problem solving, and building real-world projects  
+- 🤝 Open to collaboration and learning from the developer community  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@g)
