@@ -1,6 +1,6 @@
 # 💻 Hello it's me Muhammad Hammad 👋
 
-👨‍💻 **About Me**  
+# 👨‍💻 **About Me**  
 - 🌱 Currently learning **Full Stack Web Development**  
 - ☕ Exploring **Java** and strengthening **Object-Oriented Programming (OOP)** concepts  
 - 💻 Working with **HTML, CSS, JavaScript, React, Node.js, and Databases**  
