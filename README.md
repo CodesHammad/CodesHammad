@@ -34,12 +34,6 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/CodesHammad/CodesHammad/main/output/snake.svg)
-
-https://raw.githubusercontent.com/CodesHammad/CodesHammad/main/output/snake.svg
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-yaseen-a79928253/)  
