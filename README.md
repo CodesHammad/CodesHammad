@@ -34,11 +34,9 @@
 
 ---
 
-<!-- For light mode -->
-<img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/<BRANCH>/output/snake-light.svg#gh-light-mode-only" alt="snake light"/>
+![Snake animation](https://raw.githubusercontent.com/CodesHammad/CodesHammad/main/output/snake.svg)
 
-<!-- For dark mode -->
-<img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/<BRANCH>/output/snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
+https://raw.githubusercontent.com/CodesHammad/CodesHammad/main/output/snake.svg
 
 ---
 
