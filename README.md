@@ -34,6 +34,43 @@
 
 ---
 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="120" viewBox="0 0 700 120" role="img" aria-label="profile snake light">
+  <defs>
+    <linearGradient id="gA" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0b6cff"/>
+      <stop offset="100%" stop-color="#7b2ff7"/>
+    </linearGradient>
+    <style>
+      .track{fill:none; stroke:#e6eefb; stroke-width:18; stroke-linecap:round;}
+      .snake{fill:none; stroke:url(#gA); stroke-width:6; stroke-linecap:round;
+             stroke-dasharray: 120 400; stroke-dashoffset:0; animation:run 3.6s linear infinite;}
+      .name{font: bold 14px/1.1 "Segoe UI", Roboto, Arial; fill:#0b1b3a;}
+      @keyframes run {
+        0% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: -520; }
+      }
+    </style>
+  </defs>
+
+  <!-- background track -->
+  <path class="track" d="M20 60 C120 10, 220 110, 320 60 C420 10, 520 110, 620 60" />
+
+  <!-- animated snake -->
+  <path class="snake" d="M20 60 C120 10, 220 110, 320 60 C420 10, 520 110, 620 60" />
+
+  <!-- head -->
+  <g transform="translate(620,60)">
+    <circle r="7" fill="#7b2ff7" />
+    <circle cx="3" cy="-3" r="2" fill="#fff"/>
+  </g>
+
+  <!-- label -->
+  <text x="20" y="105" class="name">Muhammad Hammad — learning full-stack & Java</text>
+</svg>
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-yaseen-a79928253/)  
